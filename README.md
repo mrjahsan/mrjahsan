@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![junaidahsan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=junaidahsan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 <!--
 **mrjahsan/mrjahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
