@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/junaidahsan?theme=dark&font=Actor&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/junaidahsan?theme=dark&font=Encode%20Sans%20SC" alt="LeetCode Card" />
+</p>
 
 <!--
 **mrjahsan/mrjahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
