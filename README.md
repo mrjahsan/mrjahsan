@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/junaidahsan?theme=dark&font=Encode%20Sans%20SC" alt="LeetCode Card" />
+  <img src="https://leetcode-stats.vercel.app/api?username=junaidahsan&theme=Dark" alt="LeetCode Card" />
 </p>
 
 <!--
